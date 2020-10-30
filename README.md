@@ -23,7 +23,6 @@ Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/maste
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravGusain98&show_icons=true&hide=stars&line_height=27&count_private=true" alt="Gaurav's GitHub" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravGusain98&langs_count=8&layout=compact" /> 
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=GauravGusain98.GauravGusain98)
 <!--
 **GauravGusain98/GauravGusain98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
