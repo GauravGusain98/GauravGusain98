@@ -1,5 +1,23 @@
 Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="15px"> I'm Gaurav, a full stack developer at <a href="https://coloredcow.com?utm_source=github&utm_medium=satendra-sr">ColoredCow</a>. I love automating the process and playing with the infrastructure.
-- 📫 How to reach me: **gaurav1998gusain@gmail.com**
+- 🔭 I’m currently working on Wordpress & Laravel
+- 💬 Feel free to ask me about anything. I am happy to help..
+- ⚡ Fun fact: Armadillo shells are bulletproof.
+- 📫 How to reach me:
+  [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/gauravgusain1998/)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gauravgusain1998/)
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/gaurav_gusain_98/)
+  <a href="mailto:gaurav1998gusain@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Wordpress-informational?style=flat&logo=wordPress&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=gitBash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
 <hr/>
 
