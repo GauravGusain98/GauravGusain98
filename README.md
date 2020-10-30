@@ -1,4 +1,4 @@
-Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="15px"> I'm Gaurav, a full stack developer at <a href="https://coloredcow.com?utm_source=github&utm_medium=satendra-sr">ColoredCow</a>. I love automating the process and playing with the infrastructure.
+Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="15px"> I'm Gaurav, thanks for giving your time to view my profile. I am currently working as Software Developer Intern at ColoredCow. 
 - 🔭 I’m currently working on Wordpress & Laravel
 - 💬 Feel free to ask me about anything. I am happy to help..
 - ⚡ Fun fact: Armadillo shells are bulletproof.
