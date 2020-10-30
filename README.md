@@ -1,9 +1,16 @@
-### Hi there 👋
+Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="15px"> I'm Gaurav, a full stack developer at <a href="https://coloredcow.com?utm_source=github&utm_medium=satendra-sr">ColoredCow</a>. I love automating the process and playing with the infrastructure.
+- 📫 How to reach me: **gaurav1998gusain@gmail.com**
 
+<hr/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravGusain98&show_icons=true&count_private=true&line_height=24&theme=graywhite&hide=stars" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravGusain98&show_icons=true&line_height=30&count_private=true&layout=compact&theme=graywhite" />
+
+![](https://visitor-badge.glitch.me/badge?page_id=GauravGusain98.GauravGusain98)
 <!--
 **GauravGusain98/GauravGusain98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
