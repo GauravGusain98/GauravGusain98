@@ -1,4 +1,4 @@
-Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="15px"> I'm Gaurav, thanks for giving your time to view my profile. I am currently working as Software Developer Intern at ColoredCow. 
+Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/master/icons/wave.gif" width="15px"> I'm Gaurav, thanks for giving your time to view my profile. I am currently working as Software Developer Intern at [ColoredCow](https://coloredcow.com/). 
 - 🔭 I’m currently working on Wordpress & Laravel
 - 💬 Feel free to ask me about anything. I am happy to help..
 - ⚡ Fun fact: Armadillo shells are bulletproof.
