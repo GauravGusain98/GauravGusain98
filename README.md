@@ -21,7 +21,7 @@ Hello! <img src="https://raw.githubusercontent.com/satendra-sr/satendra-sr/maste
 
 <hr/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravGusain98&show_icons=true&hide=stars&line_height=27&count_private=true&theme=dark" alt="Gaurav's GitHub" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravGusain98&langs_count=8&layout=compact&theme=dark" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravGusain98&show_icons=true&hide=stars&line_height=27&include_all_commits=true&theme=default" alt="Gaurav's GitHub" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravGusain98&langs_count=8&layout=compact&theme=default" /> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=GauravGusain98.GauravGusain98)
 <!--
