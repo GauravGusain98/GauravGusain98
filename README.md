@@ -15,3 +15,4 @@ Hello! Being a Software Engineer, I like problem-solving, be it generic or speci
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GauravGusain98&margin-w=15)](https://github.com/GauravGusain98/github-profile-trophy)
 
+![Snake animation](https://github.com/GauravGusain98/GauravGusain98/blob/snake/github-contribution-grid-snake.svg)
