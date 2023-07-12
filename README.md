@@ -7,9 +7,10 @@
 Hello! Being a Software Engineer, I like problem-solving, be it generic or specific, that too using technologies and tools. I am currently a Software Developer at <a href="https://coloredcow.com?utm_source=github&utm_medium=P4NK4J">ColoredCow</a>. 
 
 <hr/>
-    <summary><b>🛠️ Languages & Tools</b></summary><br/>
+<b>🛠️ Languages & Tools</b>
+<br/><br />
   
-  [![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,flutter,androidstudio,html,css,py,java,cpp,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=flask,laravel,bootstrap,tailwind,js,flutter,vue,html,css,py,cpp,figma)](https://skillicons.dev)
     
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravGusain98&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravGusain98&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" />
 
